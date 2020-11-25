@@ -1,0 +1,22 @@
+Sat Oct 24 14:29:58 2020 -> details from mTorrent folder shared
+Sat Oct 24 14:29:58 2020 -> existing torrent information shared to tracker
+Sat Oct 24 14:29:58 2020 -> socket created
+Sat Oct 24 14:29:58 2020 -> sock options set
+Sat Oct 24 14:29:58 2020 -> socket binded
+Sat Oct 24 14:29:58 2020 -> listening at 127.0.0.1:9092
+Sat Oct 24 14:30:48 2020 -> creating mtorrent file for dir1/sample.mp4
+Sat Oct 24 14:30:48 2020 -> calculating SHA1 of dir1/sample.mp4
+Sat Oct 24 14:30:48 2020 -> SHA1 calculated
+Sat Oct 24 14:30:48 2020 -> mtorrent file created for /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:30:48 2020 -> socket created
+Sat Oct 24 14:30:48 2020 -> connected
+Sat Oct 24 14:30:48 2020 -> sending request to notify tracker about 1.mp4.mtorrent
+Sat Oct 24 14:30:48 2020 -> tracker notified about 1.mp4.mtorrent
+Sat Oct 24 14:34:43 2020 -> request accepted 
+Sat Oct 24 14:34:43 2020 -> request to download /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4 received 
+Sat Oct 24 14:34:43 2020 -> sending data in chunks for /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:34:43 2020 -> /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4 sent
+Sat Oct 24 14:38:39 2020 -> request accepted 
+Sat Oct 24 14:38:39 2020 -> request to download /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4 received 
+Sat Oct 24 14:38:39 2020 -> sending data in chunks for /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:38:39 2020 -> /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4 sent

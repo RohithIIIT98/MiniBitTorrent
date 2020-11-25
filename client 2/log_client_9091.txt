@@ -1,0 +1,25 @@
+Sat Oct 24 14:28:46 2020 -> details from mTorrent folder shared
+Sat Oct 24 14:28:46 2020 -> existing torrent information shared to tracker
+Sat Oct 24 14:28:46 2020 -> socket created
+Sat Oct 24 14:28:46 2020 -> sock options set
+Sat Oct 24 14:28:46 2020 -> socket binded
+Sat Oct 24 14:28:46 2020 -> listening at 127.0.0.1:9091
+Sat Oct 24 14:37:29 2020 -> details from mTorrent folder shared
+Sat Oct 24 14:37:29 2020 -> existing torrent information shared to tracker
+Sat Oct 24 14:37:29 2020 -> socket created
+Sat Oct 24 14:37:29 2020 -> sock options set
+Sat Oct 24 14:37:29 2020 -> socket binded
+Sat Oct 24 14:37:29 2020 -> listening at 127.0.0.1:9091
+Sat Oct 24 14:38:39 2020 -> socket created
+Sat Oct 24 14:38:39 2020 -> connected
+Sat Oct 24 14:38:39 2020 -> sending request to get seeder list for 1.mp4.mtorrent
+Sat Oct 24 14:38:39 2020 -> seeder list received
+Sat Oct 24 14:38:39 2020 -> socket created
+Sat Oct 24 14:38:39 2020 -> connected
+Sat Oct 24 14:38:39 2020 -> request sent to add 127.0.0.1:9091 as a seeder for /home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4
+Sat Oct 24 14:38:39 2020 -> 127.0.0.1:9091 seeds /home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4 now
+Sat Oct 24 14:38:39 2020 -> socket created
+Sat Oct 24 14:38:39 2020 -> connected
+Sat Oct 24 14:38:39 2020 -> path of file to be downloaded sent: /home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:38:39 2020 -> download /home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4 starting
+Sat Oct 24 14:38:39 2020 -> downloaded /home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4

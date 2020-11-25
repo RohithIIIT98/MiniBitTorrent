@@ -1,0 +1,21 @@
+Sat Oct 24 14:26:59 2020 -> seeders loaded from file seeder_tracker.txt
+Sat Oct 24 14:26:59 2020 -> socket created
+Sat Oct 24 14:26:59 2020 -> socket options set
+Sat Oct 24 14:26:59 2020 -> listening at 127.0.0.1:8081
+Sat Oct 24 14:26:59 2020 -> socket created successfully
+Sat Oct 24 14:30:48 2020 -> request accepted 
+Sat Oct 24 14:30:48 2020 -> entry added to map: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9092*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:30:48 2020 -> entry added to file: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9092*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:33:44 2020 -> request accepted 
+Sat Oct 24 14:33:44 2020 -> entry added to map: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9093*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:33:44 2020 -> entry added to file: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9093*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 1/dir1/sample.mp4
+Sat Oct 24 14:34:43 2020 -> request accepted 
+Sat Oct 24 14:34:43 2020 -> sending seederlist for f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb
+Sat Oct 24 14:34:43 2020 -> request accepted 
+Sat Oct 24 14:34:43 2020 -> seeder list sent
+Sat Oct 24 14:38:39 2020 -> request accepted 
+Sat Oct 24 14:38:39 2020 -> sending seederlist for f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb
+Sat Oct 24 14:38:39 2020 -> seeder list sent
+Sat Oct 24 14:38:39 2020 -> request accepted 
+Sat Oct 24 14:38:39 2020 -> entry added to map: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9091*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4
+Sat Oct 24 14:38:39 2020 -> entry added to file: f5b2c2e465b8bd1e6d35e6eaabcd3d7c2919e8bb*|?127.0.0.1:9091*|?/home/sairohith/Downloads/Mini-Bit-torrent-master/client 2/test.mp4
