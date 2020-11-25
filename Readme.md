@@ -1,19 +1,3 @@
-./tracker <my_tracker_ip>:<my_tracker_port> <other_tracker_ip>:<other_tracker_port> <seederlist_file> <log_file>
-./tracker 127.0.0.1:8001 127.0.0.2:8002 seeder_tracker log_tracker
-
-client 1
-./client 127.0.0.3:8005 127.0.0.1:8001 127.0.0.2:8002 log_8005
-
-client 2
-./client 127.0.0.3:8006 127.0.0.1:8001 127.0.0.2:8002 log_8006
-
-share <local_file_path> <filename>.<file_extension>.mtorrent
-share mTorrent/ sample.mp4.mtorrent
-
-get <path_to_.mtorrent_file> <destination_path>
-get sample.mp4 mTorrent/d.mp4
-
-
 # Mini Bit Torrent
 
 A mini p2p file sharing system.
@@ -70,6 +54,23 @@ show downloaded and downloading files
 exit
 ```
 Remove information from the tracker and closes the client program
+
+## sample commands 
+
+./tracker <my_tracker_ip>:<my_tracker_port> <other_tracker_ip>:<other_tracker_port> <seederlist_file> <log_file>
+./tracker 127.0.0.1:8001 127.0.0.2:8002 seeder_tracker log_tracker
+
+client 1
+./client 127.0.0.3:8005 127.0.0.1:8001 127.0.0.2:8002 log_8005
+
+client 2
+./client 127.0.0.3:8006 127.0.0.1:8001 127.0.0.2:8002 log_8006
+
+share <local_file_path> <filename>.<file_extension>.mtorrent
+share mTorrent/ sample.mp4.mtorrent
+
+get <path_to_.mtorrent_file> <destination_path>
+get sample.mp4 mTorrent/d.mp4
 
 ## Assumptions
 * Spaces in file name should be escaped by \
